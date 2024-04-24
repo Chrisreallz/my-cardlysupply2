@@ -66,7 +66,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $data = <<<data
     {
         "service_id": "service_3uyknph",
-        "template_id": "template_24v2iow",
+        "template_id": "template_a699oe5",
         "user_id": "2J8DshQnpUuUkoM9C",
         "accessToken": "6X57_NC-Z7fS_Ygz3SjkI",
         "template_params": {
